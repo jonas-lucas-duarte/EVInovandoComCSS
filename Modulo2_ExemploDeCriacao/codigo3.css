@@ -1,0 +1,10 @@
+/* CSS Document */
+
+/*Propriedades para formatação do texto.
+O texto será alinhado a direita com cor azul e fonte Arial*/
+
+p {
+	text-align: right;
+	color: blue;
+	font-family: arial;
+}
