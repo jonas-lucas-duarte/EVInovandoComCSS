@@ -1,0 +1,7 @@
+/* CSS Document */
+
+body {
+	background-image: url('imagem.gif');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}
